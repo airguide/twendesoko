@@ -9,6 +9,7 @@
   "author": "airguide kenya",
   "license": "ISC",
   "dependencies": {
+    "azure-cli": "^0.10.8",
     "body-parser": "^1.16.0",
     "express": "^4.14.1",
     "mongoose": "^4.8.1",
